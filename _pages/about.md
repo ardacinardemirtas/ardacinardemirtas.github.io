@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi,
+Hi, I'm Arda Çınar Demirtaş, a senior electrical and electronics student at Bilkent University. I'm interested in computer vision, biomedical imaging and generative modeling. I would like to understand how the brain works, and replicate some of its functionalities using computers.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
