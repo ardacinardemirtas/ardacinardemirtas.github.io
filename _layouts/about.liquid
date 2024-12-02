@@ -38,21 +38,20 @@ layout: default
       </div>
     {% endif %}
 
+    <div class="clearfix">{{ content }}</div>
+
     {% if page.cv_pdf %}
-      <div class="cv-link mt-4">
+      <div class="cv-link mt-1">
         <a
           href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
           target="_blank"
           rel="noopener noreferrer"
-          class="btn btn-primary"
+          class="float-left"
         >
           <i class="fa-solid fa-file-pdf"></i> CV
         </a>
       </div>
     {% endif %}
-
-    <div class="clearfix">{{ content }}</div>
-
 
 
     <!-- News -->
