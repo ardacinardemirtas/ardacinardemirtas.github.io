@@ -32,3 +32,11 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"cukur":
+  - firstname: ["Tolga", "T.", "T. Cukur"]
+    url: https://kilyos.ee.bilkent.edu.tr/~cukur
+
+"fua":
+  - firstname: ["Pascal", "P.", "P. Fua"]
+    url: https://people.epfl.ch/pascal.fua
