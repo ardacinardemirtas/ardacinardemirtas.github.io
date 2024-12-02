@@ -2,23 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info: 
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Arda Çınar Demirtaş, a senior electrical and electronics student at Bilkent University. I'm interested in computer vision, biomedical imaging and generative modeling. I would like to understand how the brain works, and replicate some of its functionalities using computers.
+Hi, I'm Arda Çınar Demirtaş, a senior electrical and electronics student at Bilkent University. 
+
+I'm interested in biomedical imaging, computer vision, physics-constrained generative modeling, and deep learning. I've co-authored two conference papers and a journal paper on these topics, which you can find in the "publications" section. Essentially, I find the workings of the brain fascinating, and I would like to replicate some of its functionalities.
+
+I like watching sports of any kind, but especially basketball. I play the electric guitar, and I listen to a lot of music. 
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
