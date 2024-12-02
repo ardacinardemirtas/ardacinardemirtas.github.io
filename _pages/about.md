@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle:
-cv_pdf: example_pdf.pdf
+cv_pdf: cv.pdf
 
 profile:
   align: right
