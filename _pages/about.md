@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: 
 cv_pdf: cv.pdf
 
 profile:
@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Arda Çınar Demirtaş, a senior electrical and electronics student at Bilkent University. 
+Hi, I'm Arda Çınar Demirtaş, a senior electrical and electronics undergraduate student at Bilkent University. 
 
-I'm interested in biomedical imaging, computer vision, physics-constrained generative modeling, and deep learning. I've co-authored a journal paper, a conference paper, and a conference abstract on these topics under the invaluable guidance of Prof. Tolga Çukur from Bilkent University and Prof. Pascal Fua from EPFL.
+I'm interested in biomedical imaging, computer vision, physics-constrained generative modeling, and deep learning. I've co-authored a journal paper, a conference paper, and a conference abstract on these topics under the invaluable guidance of [Prof. Tolga Çukur](https://kilyos.ee.bilkent.edu.tr/~cukur/) from Bilkent University and [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua) from EPFL.
 
 I like watching sports of any kind, but especially basketball. I play the electric guitar, and I listen to a lot of music. 
 
