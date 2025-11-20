@@ -16,11 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Arda Çınar Demirtaş, a senior electrical and electronics undergraduate student at Bilkent University. 
+Hi, I'm Arda Çınar Demirtaş, a a Master's student in Information Technology and Electrical Engineering at ETH Zürich. 
 
-I'm interested in biomedical imaging, computer vision, physics-constrained generative modeling, and deep learning. I've co-authored a journal paper, a conference paper, and a conference abstract on these topics under the invaluable guidance of [Prof. Tolga Çukur](https://kilyos.ee.bilkent.edu.tr/~cukur/) from Bilkent University and [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua) from EPFL.
-
-I like watching sports of any kind, but especially basketball. I play the electric guitar, and I listen to a lot of music. 
+I'm interested in perception and learning. I've co-authored a journal paper, a conference paper, and a conference abstract on these topics under the invaluable guidance of [Prof. Tolga Çukur](https://kilyos.ee.bilkent.edu.tr/~cukur/) from Bilkent University and [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua) from EPFL.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
