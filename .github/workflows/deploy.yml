@@ -71,7 +71,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3.5"
-          bundler-cache: true
+          bundler-cache: false
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
         with:
@@ -86,6 +86,7 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
+          bundle install --jobs 4 --retry 3
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
