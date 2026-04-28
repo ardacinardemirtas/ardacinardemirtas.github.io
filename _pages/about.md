@@ -16,11 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Arda Cinar Demirtas. I'm doing my Master's in Information Technology and Electrical Engineering at ETH Zürich. 
+Hi, I'm Arda 👋 I'm doing my Master's at **ETH Zürich** in Information Technology and Electrical Engineering, specializing in **computer vision and perception for robotics**.
 
-I'm interested in perception and learning.
-
-Previously I was at Bilkent University, where I completed my Bachelor's in Electrical and Electronics Engineering. There, I did some research on conditional image generation with [Prof. Tolga Çukur](https://kilyos.ee.bilkent.edu.tr/~cukur/). I also did an exchange in beautiful Lausanne, at EPFL during this time, where I worked on 3D shape generation with [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua).
+I completed my Bachelor's at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/), in Electrical and Electronics Engineering. There, I did research on conditional image generation with [Prof. Tolga Çukur](https://kilyos.ee.bilkent.edu.tr/~cukur/). I also did an exchange at EPFL in beautiful Lausanne during this time, where I worked on 3D shape representation and generation with [Prof. Pascal Fua](https://people.epfl.ch/pascal.fua).
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
